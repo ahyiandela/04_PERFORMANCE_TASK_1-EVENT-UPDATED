@@ -1,0 +1,7 @@
+C:\Users\quijano.415702\Downloads\ThreadPriorityDemo\ThreadPriorityDemo\bin\Debug\ThreadPriorityDemo.exe.config
+C:\Users\quijano.415702\Downloads\ThreadPriorityDemo\ThreadPriorityDemo\bin\Debug\ThreadPriorityDemo.exe
+C:\Users\quijano.415702\Downloads\ThreadPriorityDemo\ThreadPriorityDemo\bin\Debug\ThreadPriorityDemo.pdb
+C:\Users\quijano.415702\Downloads\ThreadPriorityDemo\ThreadPriorityDemo\obj\Debug\ThreadPriorityDemo.csproj.AssemblyReference.cache
+C:\Users\quijano.415702\Downloads\ThreadPriorityDemo\ThreadPriorityDemo\obj\Debug\ThreadPriorityDemo.csproj.CoreCompileInputs.cache
+C:\Users\quijano.415702\Downloads\ThreadPriorityDemo\ThreadPriorityDemo\obj\Debug\ThreadPriorityDemo.exe
+C:\Users\quijano.415702\Downloads\ThreadPriorityDemo\ThreadPriorityDemo\obj\Debug\ThreadPriorityDemo.pdb
